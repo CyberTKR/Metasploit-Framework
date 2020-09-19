@@ -17,7 +17,7 @@ API documentation for writing modules can be found at:
 Questions and suggestions can be sent to: Freenode IRC channel or e-mail the metasploit-hackers mailing list
 
 Installing
---
+---
 
 Generally, you should use [the free installer](https://github.com/rapid7/metasploit-framework/wiki/Nightly-Installers),
 which contains all of the dependencies and will get you up and running with a
