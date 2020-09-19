@@ -1,15 +1,14 @@
-
- Metasploit [![Build Status](https://travis-ci.org/rapid7/metasploit-framework.svg?branch=master)](https://travis-ci.org/rapid7/metasploit-framework) [![Maintainability]>>>(https://api.codeclimate.com/v1/badges/943e398e619c09568f3f/maintainability)](https://codeclimate.com/github/rapid7/metasploit-framework/maintainability) [![Test Coverage]>(https://api.codeclimate.com/v1/badges/943e398e619c09568f3f/test_coverage)](https://codeclimate.com/github/rapid7/metasploit-framework/test_coverage) [![Docker Pulls]>(https://img.shields.io/docker/pulls/metasploitframework/metasploit-framework.svg)](https://hub.docker.com/r/metasploitframework/metasploit-framework/)
+Metasploit [![Build Status](https://travis-ci.org/rapid7/metasploit-framework.svg?branch=master)](https://travis-ci.org/rapid7/metasploit-framework) [![Maintainability](https://api.codeclimate.com/v1/badges/943e398e619c09568f3f/maintainability)](https://codeclimate.com/github/rapid7/metasploit-framework/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/943e398e619c09568f3f/test_coverage)](https://codeclimate.com/github/rapid7/metasploit-framework/test_coverage) [![Docker Pulls](https://img.shields.io/docker/pulls/metasploitframework/metasploit-framework.svg)](https://hub.docker.com/r/metasploitframework/metasploit-framework/)
 ==
- The Metasploit Framework is released under a BSD-style license. See
- [COPYING](COPYING) for more details.
+The Metasploit Framework is released under a BSD-style license. See
+[COPYING](COPYING) for more details.
 
- The latest version of this software is available from: https://metasploit.com
+The latest version of this software is available from: https://metasploit.com
 
- Bug tracking and development information can be found at:
+Bug tracking and development information can be found at:
  https://github.com/rapid7/metasploit-framework
 
- New bugs and feature requests should be directed to:
+New bugs and feature requests should be directed to:
   https://r-7.co/MSF-BUGv1
 
 API documentation for writing modules can be found at:
@@ -18,7 +17,7 @@ API documentation for writing modules can be found at:
 Questions and suggestions can be sent to: Freenode IRC channel or e-mail the metasploit-hackers mailing list
 
 Installing
----
+--
 
 Generally, you should use [the free installer](https://github.com/rapid7/metasploit-framework/wiki/Nightly-Installers),
 which contains all of the dependencies and will get you up and running with a
@@ -48,4 +47,3 @@ pull request. For slightly more information, see
 [unleashed]: https://www.offensive-security.com/metasploit-unleashed/ "Metasploit Unleashed"
 
 
-# metasploit-framework
