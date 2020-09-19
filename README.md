@@ -1,7 +1,7 @@
-```sh
-
 Metasploit [![Build Status](https://travis-ci.org/rapid7/metasploit-framework.svg?branch=master)](https://travis-ci.org/rapid7/metasploit-framework) [![Maintainability](https://api.codeclimate.com/v1/badges/943e398e619c09568f3f/maintainability)](https://codeclimate.com/github/rapid7/metasploit-framework/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/943e398e619c09568f3f/test_coverage)](https://codeclimate.com/github/rapid7/metasploit-framework/test_coverage) [![Docker Pulls](https://img.shields.io/docker/pulls/metasploitframework/metasploit-framework.svg)](https://hub.docker.com/r/metasploitframework/metasploit-framework/)
 ==
+```sh
+
 The Metasploit Framework is released under a BSD-style license. See
 [COPYING](COPYING) for more details.
 
@@ -47,5 +47,6 @@ pull request. For slightly more information, see
 [wiki-start]: https://github.com/rapid7/metasploit-framework/wiki/ "Metasploit Wiki"
 [wiki-usage]: https://github.com/rapid7/metasploit-framework/wiki/Using-Metasploit "Using Metasploit"
 [unleashed]: https://www.offensive-security.com/metasploit-unleashed/ "Metasploit Unleashed"
+
 
 ```
