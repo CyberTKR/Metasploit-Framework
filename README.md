@@ -1,16 +1,16 @@
-python
-> Metasploit [![Build Status](https://travis-ci.org/rapid7/metasploit-framework.svg?branch=master)](https://travis-ci.org/rapid7/metasploit-framework) [![Maintainability]>>(https://api.codeclimate.com/v1/badges/943e398e619c09568f3f/maintainability)](https://codeclimate.com/github/rapid7/metasploit-framework/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/943e398e619c09568f3f/test_coverage)](https://codeclimate.com/github/rapid7/metasploit-framework/test_coverage) [![Docker Pulls](https://img.shields.io/docker/pulls/metasploitframework/metasploit-framework.svg)](https://hub.docker.com/r/metasploitframework/metasploit-framework/)
-==
->The Metasploit Framework is released under a BSD-style license. See
->[COPYING](COPYING) for more details.
 
->The latest version of this software is available from: https://metasploit.com
+> Metasploit [![Build Status](https://travis-ci.org/rapid7/metasploit-framework.svg?branch=master)](https://travis-ci.org/rapid7/metasploit-framework) [![Maintainability]>>>(https://api.codeclimate.com/v1/badges/943e398e619c09568f3f/maintainability)](https://codeclimate.com/github/rapid7/metasploit-framework/maintainability) [![Test Coverage]>(https://api.codeclimate.com/v1/badges/943e398e619c09568f3f/test_coverage)](https://codeclimate.com/github/rapid7/metasploit-framework/test_coverage) [![Docker Pulls]>(https://img.shields.io/docker/pulls/metasploitframework/metasploit-framework.svg)](https://hub.docker.com/r/metasploitframework/metasploit-framework/)
+>==
+> The Metasploit Framework is released under a BSD-style license. See
+> [COPYING](COPYING) for more details.
 
->Bug tracking and development information can be found at:
- https://github.com/rapid7/metasploit-framework
+> The latest version of this software is available from: https://metasploit.com
 
-New bugs and feature requests should be directed to:
-  https://r-7.co/MSF-BUGv1
+> Bug tracking and development information can be found at:
+> https://github.com/rapid7/metasploit-framework
+
+> New bugs and feature requests should be directed to:
+>  https://r-7.co/MSF-BUGv1
 
 API documentation for writing modules can be found at:
   https://rapid7.github.io/metasploit-framework/api
